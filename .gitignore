@@ -1,0 +1,26 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary folders
+tmp/
+to_device/
+
+# binary and raw files (too large to upload onto github free tier)
+*.bin
+*.raw
+
+# symbolic links generated from Example3
+qnn_assets
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Datasets
+*.png
+*.txt
